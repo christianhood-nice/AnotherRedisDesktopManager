@@ -52,6 +52,7 @@ import ViewerProtobuf from '@/components/viewers/ViewerProtobuf';
 import ViewerDeflateRaw from '@/components/viewers/ViewerDeflateRaw';
 import ViewerJavaSerialize from '@/components/viewers/ViewerJavaSerialize';
 import ViewerPickle from '@/components/viewers/ViewerPickle';
+import ViewerLz4 from './viewers/ViewerLz4.vue';
 
 export default {
   data() {
@@ -72,6 +73,7 @@ export default {
         { value: 'ViewerDeflate', text: 'Deflate' },
         { value: 'ViewerDeflateRaw', text: 'DeflateRaw' },
         { value: 'ViewerProtobuf', text: 'Protobuf' },
+        { value: 'ViewerLz4', text: 'Lz4' },
       ],
       selectStyle: {
         float: this.float,
@@ -96,6 +98,7 @@ export default {
     ViewerDeflateRaw,
     ViewerJavaSerialize,
     ViewerPickle,
+    ViewerLz4,
   },
   props: {
     float: { default: 'right' },

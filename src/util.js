@@ -114,6 +114,18 @@ export default {
       return false;
     }
   },
+  isLz4(buf) {
+    const { uncompressSync } = require('lz4-napi');
+
+    try {
+      const result = uncompressSync(buf);
+      if (Buffer.isBuffer(result) && result.length) {
+        return true;
+      }
+    } catch (e) {}
+
+    return false;
+  },
   isMsgpack(buf) {
     const { decode } = require('algo-msgpack-with-bigint');
 
