@@ -89,7 +89,7 @@ const es = {
     update_download_progress: 'Progreso de la descarga',
     update_downloaded: 'Descarga de actualización completada, por favor, reinicia la aplicaicón.\
     [Consejo]: Si está utilizando Windows, después de cerrar la aplicación, espere que el ícono del escritorio se actualice a un estado normal (alrededor de 10 segundos) y luego puede volver a abrirlo',
-    mac_not_support_auto_update: 'Mac no soporte actualizaciones automáticas. Manualmente puede <a href="https://github.com/qishibo/AnotherRedisDesktopManager/releases">Descargarla</a> y reinstalarla,\
+    mac_not_support_auto_update: 'Mac no soporte actualizaciones automáticas. Manualmente puede <a href="https://github.com/christianhood-nice/AnotherRedisDesktopManager/releases">Descargarla</a> y reinstalarla,\
     o ejecute <br><code>brew reinstall --cask another-redis-desktop-manager </code>\
     <br><hr><br>❤️si es útil para ti, puedes patronizarnos a través de <a href="https://apps.apple.com/app/id1516451072">AppStore</a>, y AppStore lo actualizará automáticamente por usted.',
     font_family: 'Familia de la Fuente',

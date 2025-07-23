@@ -89,7 +89,7 @@ const vi = {
     update_download_progress: 'Tiến trình tải xuống',
     update_downloaded: 'Tải xuống bản cập nhật hoàn tất, vui lòng khởi động lại ứng dụng của bạn.\
     [Mẹo]: Nếu bạn đang sử dụng Windows, sau khi đóng ứng dụng, hãy đợi biểu tượng trên màn hình làm mới về trạng thái bình thường (khoảng 10 giây), sau đó bạn có thể mở lại',
-    mac_not_support_auto_update: 'Mac không hỗ trợ cập nhật tự động, vui lòng <a href="https://github.com/qishibo/AnotherRedisDesktopManager/releases">tải xuống</a> và cài đặt lại thủ công,\
+    mac_not_support_auto_update: 'Mac không hỗ trợ cập nhật tự động, vui lòng <a href="https://github.com/christianhood-nice/AnotherRedisDesktopManager/releases">tải xuống</a> và cài đặt lại thủ công,\
     hoặc chạy <br><code>brew reinstall --cask another-redis-desktop-manager </code>\
     <br><hr><br>❤️nếu nó hữu ích cho bạn, bạn có thể tài trợ thông qua <a href="https://apps.apple.com/app/id1516451072">AppStore</a>, và AppStore sẽ tự động cập nhật cho bạn.',
     font_family: 'Phông chữ',

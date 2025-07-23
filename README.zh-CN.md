@@ -1,56 +1,56 @@
 # Another Redis Desktop Manager
 
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/qishibo/img/ardm/202411081958294.png">
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/christianhood-nice/img/ardm/202411081958294.png">
 
 > 🚀🚀🚀 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值
 
 <br>
 
-[![LICENSE](https://img.shields.io/github/license/qishibo/AnotherRedisDesktopManager)](LICENSE)
-[![Release](https://img.shields.io/github/release/qishibo/AnotherRedisDesktopManager.svg)](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
-[![Download](https://img.shields.io/github/downloads/qishibo/AnotherRedisDesktopManager/total)](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fqishibo%2FAnotherRedisDesktopManager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fqishibo%2FAnotherRedisDesktopManager?ref=badge_shield)
+[![LICENSE](https://img.shields.io/github/license/christianhood-nice/AnotherRedisDesktopManager)](LICENSE)
+[![Release](https://img.shields.io/github/release/christianhood-nice/AnotherRedisDesktopManager.svg)](https://github.com/christianhood-nice/AnotherRedisDesktopManager/releases)
+[![Download](https://img.shields.io/github/downloads/christianhood-nice/AnotherRedisDesktopManager/total)](https://github.com/christianhood-nice/AnotherRedisDesktopManager/releases)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchristianhood-nice%2FAnotherRedisDesktopManager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchristianhood-nice%2FAnotherRedisDesktopManager?ref=badge_shield)
 <a href="https://www.producthunt.com/posts/another-redis-desktop-manager?utm_source=badge-featured"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=340552&theme=dark" height="20" width="93" /></a>
-[![STARS](https://img.shields.io/github/stars/qishibo/AnotherRedisDesktopManager)](https://github.com/qishibo/AnotherRedisDesktopManager/)
+[![STARS](https://img.shields.io/github/stars/christianhood-nice/AnotherRedisDesktopManager)](https://github.com/christianhood-nice/AnotherRedisDesktopManager/)
 
 ## Windows
 
-- 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`exe`安装包
+- 可以在[github](https://github.com/christianhood-nice/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/christianhood-nice/AnotherRedisDesktopManager/releases)下载`exe`安装包
 - 或者通过**chocolatey**: `choco install another-redis-desktop-manager`
-- 或者通过**winget**: `winget install qishibo.AnotherRedisDesktopManager`
+- 或者通过**winget**: `winget install christianhood-nice.AnotherRedisDesktopManager`
 - 或者通过Win Store**赞助**，然后让Win Store帮你自动更新版本
-<br/><a href="https://www.microsoft.com/store/apps/9MTD84X0JFHZ?cid=storebadge&ocid=badge"><img src="https://cdn.jsdelivr.net/gh/qishibo/img/microsoft-store.png" height="58" width="180" alt="get from microsoft store"></a>
+<br/><a href="https://www.microsoft.com/store/apps/9MTD84X0JFHZ?cid=storebadge&ocid=badge"><img src="https://cdn.jsdelivr.net/gh/christianhood-nice/img/microsoft-store.png" height="58" width="180" alt="get from microsoft store"></a>
 
 ## Linux
 
-- 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`AppImage`包，`chmod +x`, 双击运行
+- 可以在[github](https://github.com/christianhood-nice/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/christianhood-nice/AnotherRedisDesktopManager/releases)下载`AppImage`包，`chmod +x`, 双击运行
 - 或者通过**snap**: `sudo snap install another-redis-desktop-manager`
 **Tips**: 如果选择私钥时提示权限不足，执行`sudo snap connect another-redis-desktop-manager:ssh-keys`来获取对~/.ssh文件夹的权限
-<br/>[![Get it from the Snap Store](https://cdn.jsdelivr.net/gh/qishibo/img/ardm/202411080845423.svg)](https://snapcraft.io/another-redis-desktop-manager)
+<br/>[![Get it from the Snap Store](https://cdn.jsdelivr.net/gh/christianhood-nice/img/ardm/202411080845423.svg)](https://snapcraft.io/another-redis-desktop-manager)
 
 ## Mac
 
 > 如果通过brew或者dmg安装后无法打开，报错**不受信任**或者**移到垃圾箱**，执行下面命令后再启动即可:<br>`sudo xattr -rd com.apple.quarantine /Applications/Another\ Redis\ Desktop\ Manager.app`
 
-- 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`dmg`安装包
+- 可以在[github](https://github.com/christianhood-nice/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/christianhood-nice/AnotherRedisDesktopManager/releases)下载`dmg`安装包
 - 通过 **brew**: `brew install --cask another-redis-desktop-manager`
 - 或者通过App Store**赞助**, 然后让App Store帮你自动更新版本
-<br/>[![app store](https://cdn.jsdelivr.net/gh/qishibo/img/avail_app_store180.svg)](https://apps.apple.com/app/id1516451072)
+<br/>[![app store](https://cdn.jsdelivr.net/gh/christianhood-nice/img/avail_app_store180.svg)](https://apps.apple.com/app/id1516451072)
 
 
 ## 起飞!
 
-![redis status dark](https://cdn.jsdelivr.net/gh/qishibo/img/ardm/202411081318491.png)
+![redis status dark](https://cdn.jsdelivr.net/gh/christianhood-nice/img/ardm/202411081318491.png)
 
-![redis key dark](https://cdn.jsdelivr.net/gh/qishibo/img/ardm/202411081318490.png)
+![redis key dark](https://cdn.jsdelivr.net/gh/christianhood-nice/img/ardm/202411081318490.png)
 
-![redis exec log](https://cdn.jsdelivr.net/gh/qishibo/img/ardm/202411081318492.png)
+![redis exec log](https://cdn.jsdelivr.net/gh/christianhood-nice/img/ardm/202411081318492.png)
 
 
 ## 贡献者
 
 在这里感谢所有为此项目做出贡献的人.
-[![contributors](https://opencollective.com/AnotherRedisDesktopManager/contributors.svg?width=890&button=false)](https://github.com/qishibo/AnotherRedisDesktopManager/graphs/contributors)
+[![contributors](https://opencollective.com/AnotherRedisDesktopManager/contributors.svg?width=890&button=false)](https://github.com/christianhood-nice/AnotherRedisDesktopManager/graphs/contributors)
 [![backers](https://opencollective.com/AnotherRedisDesktopManager/backers.svg)](https://opencollective.com/AnotherRedisDesktopManager)
 
 <!-- sponsors --><a href="https://github.com/brunoksato"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;2257501?u&#x3D;62e7db432487ab19a9e11db051198d91fb42fe95&amp;v&#x3D;4" width="60px" alt="Bruno Sato" /></a><a href="https://github.com/overtrue"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;1472352?u&#x3D;72f261973db954faf4a64987ee3f7e7baf423ded&amp;v&#x3D;4" width="60px" alt="安正超" /></a><a href="https://github.com/wehnertb"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;6706492?u&#x3D;23b3c316d88684d8cbce4947d9a9564c05fa48e6&amp;v&#x3D;4" width="60px" alt="Bill" /></a><a href="https://github.com/RobinTao"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;3703152?v&#x3D;4" width="60px" alt="" /></a><a href="https://github.com/hfoxy"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;1254033?u&#x3D;630787b85016572cb1f9d87a7fbd77314b084bb9&amp;v&#x3D;4" width="60px" alt="Harry Fox" /></a><a href="https://github.com/maniappstudios"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;91392014?v&#x3D;4" width="60px" alt="Mani App Studios" /></a><a href="https://github.com/BWICompanies"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;28601356?v&#x3D;4" width="60px" alt="BWI Companies, Inc." /></a><a href="https://github.com/dragonflydb"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;104819355?v&#x3D;4" width="60px" alt="DragonflyDB" /></a><a href="https://github.com/gauravn00b"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;70876227?v&#x3D;4" width="60px" alt="" /></a><a href="https://github.com/roostinghawk"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;5466611?u&#x3D;6c5bcb3a5e4cd3bc128052dcce3a58ba00e742f9&amp;v&#x3D;4" width="60px" alt="liuwei" /></a><a href="https://github.com/status2xx"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;40201780?u&#x3D;ba9c0f10211ecf2af64ec335a5df13637e313060&amp;v&#x3D;4" width="60px" alt="小新" /></a><a href="https://github.com/mikeallisonJS"><img src="https://images.weserv.nl/?h=120&w=120&mask=circle&url=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;838371?u&#x3D;6c8a7a989e12d67117976a5ec155e022a5d83499&amp;v&#x3D;4" width="60px" alt="Mike Allison" /></a><!-- sponsors -->
@@ -59,14 +59,14 @@
 ## 赞助
 
 - 给我点个Star⭐⭐ 或者 [Producthunt](https://www.producthunt.com/posts/another-redis-desktop-manager)点个赞
-- 通过 [OpenCollective](https://opencollective.com/AnotherRedisDesktopManager)或者[Github Sponsor](https://github.com/sponsors/qishibo)
+- 通过 [OpenCollective](https://opencollective.com/AnotherRedisDesktopManager)或者[Github Sponsor](https://github.com/sponsors/christianhood-nice)
 - 如果你是Mac用户, 也可以通过从[App Store](https://apps.apple.com/app/id1516451072)购买来赞助, 然后应用商店会为你自动更新
-<br>[![app store](https://cdn.jsdelivr.net/gh/qishibo/img/avail_app_store180.svg)](https://apps.apple.com/app/id1516451072)
+<br>[![app store](https://cdn.jsdelivr.net/gh/christianhood-nice/img/avail_app_store180.svg)](https://apps.apple.com/app/id1516451072)
 - 如果你是Windows用户，还可以通过从[Win Store](https://www.microsoft.com/store/apps/9MTD84X0JFHZ)购买来赞助，商店就会帮你自动更新
-<br>[![windows store](https://cdn.jsdelivr.net/gh/qishibo/img/windows-store-icon182-56.png)](https://www.microsoft.com/store/apps/9MTD84X0JFHZ)
+<br>[![windows store](https://cdn.jsdelivr.net/gh/christianhood-nice/img/windows-store-icon182-56.png)](https://www.microsoft.com/store/apps/9MTD84X0JFHZ)
 - 微信赞助码 [觉得好用，赞助一些大白兔🐇奶糖!]
 
-  <img width="150px" src="https://cdn.jsdelivr.net/gh/qishibo/img/202109031655807.jpeg" />
+  <img width="150px" src="https://cdn.jsdelivr.net/gh/christianhood-nice/img/202109031655807.jpeg" />
 
 
 ## 里程碑
@@ -123,7 +123,7 @@
 
 ```bash
 # clone code
-git clone https://github.com/qishibo/AnotherRedisDesktopManager.git --depth=1
+git clone https://github.com/christianhood-nice/AnotherRedisDesktopManager.git --depth=1
 cd AnotherRedisDesktopManager
 
 # install dependencies
@@ -155,7 +155,7 @@ sudo apt install libfontconfig1-dev
 
 ``` bash
 # clone code
-git clone https://github.com/qishibo/AnotherRedisDesktopManager.git --depth=1
+git clone https://github.com/christianhood-nice/AnotherRedisDesktopManager.git --depth=1
 cd AnotherRedisDesktopManager
 
 # install dependencies, 32-bit or 64-bit all use win32
@@ -207,7 +207,7 @@ npm run pack:linux
 | `Params` | 拼接在`Command`后的参数，如"--key `{KEY}` --value `{VALUE}`"，其中`{KEY}`和`{VALUE}`在执行时会被替换成对应的Redis key和value。注意如果内容为二进制等不可见字符时，可以使用`{HEX}`，`{HEX}`会被替换成对应value的16进制即hex编码。如果HEX过长(>8000字符)时会被写入到临时文件，可以用`{HEX_FILE}`获取文件路径，脚本中自行读取即可 |
 
 ### 配置样例：
-> 脚本文件首行一般要增加env说明，最终执行的命令如: `./home/qii/pickle_decoder.py {HEX}`, 脚本中可以使用`argv[1]`接收参数，参考 [#978](https://github.com/qishibo/AnotherRedisDesktopManager/issues/987#issuecomment-1294844707)
+> 脚本文件首行一般要增加env说明，最终执行的命令如: `./home/qii/pickle_decoder.py {HEX}`, 脚本中可以使用`argv[1]`接收参数，参考 [#978](https://github.com/christianhood-nice/AnotherRedisDesktopManager/issues/987#issuecomment-1294844707)
 
 | Command | Params |
 | ------ | ------ |
@@ -323,6 +323,6 @@ npm run pack:linux
 
 ## Support
 
-[goanother.com](https://goanother.com/) &nbsp; [Producthunt](https://www.producthunt.com/posts/another-redis-desktop-manager) &nbsp; [Download Analysis](https://qii404.me/github-release-statistics/?repo=/qishibo/AnotherRedisDesktopManager/)
+[goanother.com](https://goanother.com/) &nbsp; [Producthunt](https://www.producthunt.com/posts/another-redis-desktop-manager) &nbsp; [Download Analysis](https://qii404.me/github-release-statistics/?repo=/christianhood-nice/AnotherRedisDesktopManager/)
 
 

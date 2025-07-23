@@ -89,7 +89,7 @@ const pt = {
     update_download_progress: 'Download em progresso',
     update_downloaded: 'Download da atualização concluído, reinicie seu aplicativo por favor.\
     [Tips]: Se você estiver usando o Windows, depois de fechar o aplicativo, aguarde o ícone da área de trabalho para atualizar para um estado normal (cerca de 10 segundos), e então você pode reabri-lo',
-    mac_not_support_auto_update: 'Mac não suporta atualização automática, faça o <a href="https://github.com/qishibo/AnotherRedisDesktopManager/releases">download</a> e reinstale manualmente, \
+    mac_not_support_auto_update: 'Mac não suporta atualização automática, faça o <a href="https://github.com/christianhood-nice/AnotherRedisDesktopManager/releases">download</a> e reinstale manualmente, \
     Ou execute <br><code>brew reinstall --cask another-redis-desktop-manager </code>\
     <br><hr><br>❤️se for útil para você, você pode patrocinar através da <a href="https://apps.apple.com/app/id1516451072">AppStore</a>, e a AppStore irá atualizá-lo automaticamente para você.',
     font_family: 'Font Family',

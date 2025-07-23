@@ -89,7 +89,7 @@ const ko = {
     update_download_progress: '다운로드 진행률',
     update_downloaded: '업데이트가 완료되었습니다. 앱을 재시작해주세요.\
     [도움말]: Windows를 사용하는 경우 앱을 종료한 후 바탕 화면 아이콘이 정상 상태(약 10초)로 새로 고쳐질 때까지 기다린 후 다시 열 수 있습니다.',
-    mac_not_support_auto_update: 'Mac은 자동 업데이트를 지원하지 않습니다. <a href="https://github.com/qishibo/AnotherRedisDesktopManager/releases">직접 다운로드</a>하여 재설치해주세요.\
+    mac_not_support_auto_update: 'Mac은 자동 업데이트를 지원하지 않습니다. <a href="https://github.com/christianhood-nice/AnotherRedisDesktopManager/releases">직접 다운로드</a>하여 재설치해주세요.\
     또는 <br><code>brew reinstall --cask another-redis-desktop-manager</code> 명령을 실행하십시오.\
     <br><hr><br>❤️만약 이 프로그램이 당신에게 유용하다면 <a href="https://apps.apple.com/app/id1516451072">앱스토어</a>를 통하여 후원하실 수 있습니다. 또한, 앱스토어는 자동으로 업데이트됩니다.',
     font_family: '폰트 패밀리',

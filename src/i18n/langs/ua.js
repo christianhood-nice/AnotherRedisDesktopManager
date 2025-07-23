@@ -89,7 +89,7 @@ const ua = {
     update_download_progress: 'Прогрес завантаження',
     update_downloaded: 'Оновлення завершено, запустіть програму, будь ласка.\
     [Tips]: Якщо ви використовуєте Windows, після закриття програми, дочекавшись значка робочого столу, щоб оновити його до нормального стану (приблизно 10 секунд), а потім ви можете відкрити його знову',
-    mac_not_support_auto_update: 'MacOS не підтримує автоматичне оновлення, <a href="https://github.com/qishibo/AnotherRedisDesktopManager/releases">скачайте</a> і перевстановіть додаток вручну, \
+    mac_not_support_auto_update: 'MacOS не підтримує автоматичне оновлення, <a href="https://github.com/christianhood-nice/AnotherRedisDesktopManager/releases">скачайте</a> і перевстановіть додаток вручну, \
     Або виконайте комманду <br><code>brew reinstall --cask another-redis-desktop-manager </code>\
     <br><hr><br>❤️якщо це корисно для вас, ви можете спонсорувати через <a href="https://apps.apple.com/app/id1516451072">AppStore</a>, і AppStore автоматично оновить його для вас.',
     font_family: 'Шрифти',
